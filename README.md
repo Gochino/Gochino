@@ -1,5 +1,9 @@
-## Hey 👋, This is Gochino
+<h1 align="center">Hey 👋, This is Gochino</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gochino/Gochino/main/20220318_072710.png" width: "250"' /></p>
+  
 [![Gmail Badge](https://img.shields.io/badge/-me.gochino@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:me.gochino@gmail.com)](mailto:me.gochino@gmail.com) [![Github Badge](https://img.shields.io/badge/-Gochino-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Gochino/)](https://www.github.com/Gochino/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=gochino.github.io/)](gochino.github.io/) <p align='left'>Hmm nothing special ☺</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Gochino alt=Gochino /> </p>
 
